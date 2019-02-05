@@ -1,3 +1,4 @@
+#![no_std]
 #![feature(repr_simd)]
 #![allow(non_camel_case_types)]
 
